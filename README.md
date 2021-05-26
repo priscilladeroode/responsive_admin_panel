@@ -1,16 +1,43 @@
-# responsive_admin_panel
+<h1 align="center">
+  <img alt="move.it" title="move.it" src="assets/images/logo.png" />
+</h1>
 
-A new Flutter project.
+<p align="center">
+  <a href="#-tecnologia">Tecnologia</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-bibliotecas">Bibliotecas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-objetivo">Objetivos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
 
-## Getting Started
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000">
+</p>
 
-This project is a starting point for a Flutter application.
+<br>
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Tecnologia
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Esse projeto foi desenvolvido com a seguinte tecnologia:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Flutter](https://flutter.dev/)
+
+## Bibliotecas
+
+- [flutter_svg](https://pub.dev/packages/flutter_svg)
+- [google_fonts](https://pub.dev/packages/google_fonts)
+- [provider](https://pub.dev/packages/provider)
+
+## 💻 Projeto
+
+O Shop é um dashboard contendo tabelas, gráficos, cards para apresentar as informações.
+
+## Objetivo
+
+Aplicar o conceito de responsividade utilizando um único código para que a aplicação seja utilizada no IOS, Android e Web.
+
+## 🚀 Como executar
+
+- Clone o repositório
+- Instale as dependências com `flutter pub get`
+- Inicie o aplicativo com `flutter run dev`
