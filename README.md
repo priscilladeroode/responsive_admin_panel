@@ -1,12 +1,12 @@
 <h1 align="center">
-  <img alt="move.it" title="move.it" src="assets/images/logo.png" />
+  <img alt="shop" title="shop" src="assets/images/logo.png" />
 </h1>
 
 <p align="center">
   <a href="#-tecnologia">Tecnologia</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-bibliotecas">Bibliotecas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-objetivo">Objetivos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-objetivo">Objetivo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -16,13 +16,17 @@
 
 <br>
 
+<p align="center">
+  <img alt="Happy" src=".github/images/Shop.png" width="80%">
+</p>
+
 ## ✨ Tecnologia
 
 Esse projeto foi desenvolvido com a seguinte tecnologia:
 
 - [Flutter](https://flutter.dev/)
 
-## Bibliotecas
+## :books: Bibliotecas
 
 - [flutter_svg](https://pub.dev/packages/flutter_svg)
 - [google_fonts](https://pub.dev/packages/google_fonts)
@@ -32,7 +36,7 @@ Esse projeto foi desenvolvido com a seguinte tecnologia:
 
 O Shop é um dashboard contendo tabelas, gráficos, cards para apresentar as informações.
 
-## Objetivo
+## :dart: Objetivo
 
 Aplicar o conceito de responsividade utilizando um único código para que a aplicação seja utilizada no IOS, Android e Web.
 
