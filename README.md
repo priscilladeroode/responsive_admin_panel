@@ -24,13 +24,14 @@
 
 Esse projeto foi desenvolvido com a seguinte tecnologia:
 
-- [Flutter](https://flutter.dev/)
+- [Flutter v.2.2.1](https://flutter.dev/)
 
 ## :books: Bibliotecas
 
 - [flutter_svg](https://pub.dev/packages/flutter_svg)
 - [google_fonts](https://pub.dev/packages/google_fonts)
 - [provider](https://pub.dev/packages/provider)
+- [fl_chart](https://pub.dev/packages/fl_chart)
 
 ## 💻 Projeto
 
